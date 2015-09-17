@@ -13,8 +13,8 @@ namespace Calculator
 
 		public static void saveFile()
 		{
-		string accessKey = "AKIAJQ6QJT6KW7JJFXYA";
-		string secretKey = "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";
+		string accessKey = "*********************";
+		string secretKey = "******************************************";
 
 			AmazonS3Client s3 = new AmazonS3Client(accessKey, secretKey, Amazon.RegionEndpoint.USEast1);
 
