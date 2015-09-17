@@ -1,0 +1,2 @@
+C:\Users\Kavya Rao\Documents\Projects\Calculator\Calculator\obj\Debug\assemblies\Calculator.dll
+C:\Users\Kavya Rao\Documents\Projects\Calculator\Calculator\obj\Debug\assemblies\AWSSDK_XMOBILE.dll
